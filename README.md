@@ -1,4 +1,4 @@
-I did this project as part of a Advanced DSP class project. 
+A project I did as part of a Advanced DSP class project!
 
 # Block-wise PCA Image Compression
 
